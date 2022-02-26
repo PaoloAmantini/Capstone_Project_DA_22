@@ -22,7 +22,7 @@ La fonte dei dati sarà l'API del congrssso degli Stati Uniti, accessibile al se
 
 Storicamente la tutela ambientale e l'attenzione al clima è un tema più caro ai democratici, mi aspetto dunque che la maggiorparte delle leggi siano state proposte da quel partito. Inoltre mi aspetto molta più attenzione al clima da dopo il 1969 (uomo sulla luna) ed  il 2018 e Greta Thunberg.
 
-**References/bibliografia:** 📚
+**References / Bibliografia:** 📚
 
 * Brainard, Jeffrey, and Richard Monastersky. 2007. “Congress Debates Climate Change.” The Chronicle of Higher Education 53 (25). 
 * “Economy-Wide Implications of President Obama’s Air Agenda: Hearing before the Committee on Environment and Public Works, United States Senate, One Hundred Fourteenth Congress, First Session   Note.” 2016. Economy-Wide Implications of President Obama’s Air Agenda: Hearing before the Committee on Environment and Public Works, United States Senate, One Hundred Fourteenth Congress, First Session, I–85.
